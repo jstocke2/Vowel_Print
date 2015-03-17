@@ -5,9 +5,9 @@
 #This program counts how many words from file words.txt           #
 #contain the vowels a e i o u in sequential order                 #
 #                                                                 #
-#The function has been written to allow generalization of the     #
-#strings compared.  To change the strings compared change the     #
-#the values of the strings passed in to contains_letters_in_order #
+#                                                                 #
+#Further functionality:  If needed edit variable vowels to find   #
+#other pieces of text in sequential order                         #
 ###################################################################
 
 
